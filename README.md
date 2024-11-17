@@ -9,7 +9,7 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studied Computer Science Engineering 
+- 🎓 &nbsp; Studied Computer Science Engineering. 
 
 <i>❝The best way to predict the future is to program it.❞</i>
 
