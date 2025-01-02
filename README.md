@@ -33,7 +33,7 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,git,github,vscode,idea,arduino,pycharm,django,css,html&perline=12" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,git,github,githubactions,gitlab,vscode,arduino,r,idea,pycharm,django,css,html,sqlite,windows,linux,mint,ubuntu&perline=12" />
 
 
 
