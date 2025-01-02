@@ -37,22 +37,23 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=R0yalCode&show_icons=true&theme=tokyonight" alt="Royal's GitHub stats"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=R0yalCode&show_icons=true&theme=tokyonight&hide_title=true&bg_color=00000000&title_color=49DDFF&icon_color=49DDFF" alt="Royal's GitHub stats"/>
       </td>
       <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=R0yalCode&theme=tokyonight" alt="Royal's GitHub streak"/>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=R0yalCode&theme=tokyonight&background=FFFFFF00&sideNums=49DDFF&currStreakLabel=49DDFF" alt="Royal's GitHub streak"/>
       </td>
     </tr>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R0yalCode&theme=dark&show" alt="Royal's Top Languages"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R0yalCode&theme=tokyonight&show_icons=true&bg_color=00000000&title_color=49DDFF&icon_color=49DDFF" alt="Royal's Top Languages"/>
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=R0yalCode&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight" alt="Royal's Stats"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=R0yalCode&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight&bg_color=00000000&title_color=49DDFF&icon_color=49DDFF" alt="Royal's Stats"/>
       </td>
     </tr>
   </table>
 </div>
+
 
 <!-- Divider -->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000" alt="Divider">
