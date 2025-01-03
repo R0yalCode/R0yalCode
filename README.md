@@ -36,23 +36,24 @@
 <div align="center">
   <table>
     <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=R0yalCode&show_icons=true&theme=tokyonight&hide_title=true&bg_color=00000000&title_color=49DDFF&icon_color=49DDFF" alt="Royal's GitHub stats"/>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=R0yalCode&show_icons=true&theme=tokyonight&hide_title=true&bg_color=00000000&title_color=FF9B49&icon_color=49DDFF" alt="Royal's GitHub stats"/>
       </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=R0yalCode&theme=tokyonight&background=FFFFFF00&sideNums=49DDFF&currStreakLabel=49DDFF" alt="Royal's GitHub streak"/>
+      <td align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=R0yalCode&theme=tokyonight&background=FFFFFF00&sideNums=49DDFF&currStreakLabel=FF9B49" alt="Royal's GitHub streak"/>
       </td>
     </tr>
     <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R0yalCode&theme=tokyonight&show_icons=true&bg_color=00000000&title_color=49DDFF&icon_color=49DDFF" alt="Royal's Top Languages"/>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R0yalCode&theme=tokyonight&show_icons=true&bg_color=00000000&title_color=FF9B49&icon_color=49DDFF" alt="Royal's Top Languages"/>
       </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=R0yalCode&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight&bg_color=00000000&title_color=49DDFF&icon_color=49DDFF" alt="Royal's Stats"/>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=R0yalCode&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight&bg_color=00000000&title_color=FF9B49&icon_color=49DDFF" alt="Royal's Stats"/>
       </td>
     </tr>
   </table>
 </div>
+
 
 
 <!-- Divider -->
@@ -61,7 +62,8 @@
 <!-- Contribution Graph -->
 <h2>Contribution Graph:</h2>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=R0yalCode&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" alt="Royal's Contribution Graph" style="border-radius: 15px;">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=R0yalCode&bg_color=011627&color=79d3c3&line=c792ea&point=ff9b49&area=true&hide_border=false" alt="Royal's Contribution Graph" style="border-radius: 15px;">
+
 </div>
 
 <!-- Divider -->
