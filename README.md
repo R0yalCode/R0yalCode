@@ -24,7 +24,7 @@
 <!-- Tech Stack Icons -->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,git,github,githubactions,gitlab,vscode,visualstudio,arduino,r,idea,pycharm,django,css,html,gmail,sqlite,windows,linux,powershell,mint,ubuntu&perline=12" alt="Tech Stack Icons"/>
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,git,github,githubactions,gitlab,vscode,visualstudio,arduino,r,idea,pycharm,django,css,html,gmail,sqlite,docker,windows,linux,powershell,mint,ubuntu&perline=12" alt="Tech Stack Icons"/>
   </a>
 </p>
 
